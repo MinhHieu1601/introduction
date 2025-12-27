@@ -1,6 +1,6 @@
 # iznow - Full-Stack Developer Portfolio
 
-🌐 **Website:** [nguyenminhhieu.net](https://www.nguyenminhhieu.net/)
+🌐 **Website:** [nguyenminhhieu.net](https://nguyenminhhieu.net/)
 
 ---
 
