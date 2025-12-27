@@ -8,22 +8,6 @@
 
 Personal portfolio website showcasing my skills, projects and contact information as a Full-Stack Developer.
 
-## 🛠️ Tech Stack
-
-- **Framework:** Next.js 14
-- **Styling:** Tailwind CSS, Shadcn/UI
-- **Animation:** Framer Motion, GSAP
-- **3D:** Spline
-- **Deployment:** Vercel
-
-## 🎯 Features
-
-- Interactive 3D keyboard skill showcase
-- Smooth animations and transitions
-- Dark/Light theme toggle
-- Contact form integration
-- Responsive design
-
 ## 📫 Contact
 
 - 📧 Email: nguyenminhhieu.profile@gmail.com
